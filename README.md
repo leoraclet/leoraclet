@@ -1,4 +1,5 @@
 
+<img style="rounded: 50px;" src="https://github.com/leoraclet/leoraclet/assets/110538448/6a73a496-d73c-4e43-9eb6-399b3367d764" />
 ![banner3](https://github.com/leoraclet/leoraclet/assets/110538448/6a73a496-d73c-4e43-9eb6-399b3367d764)
 
 ## 👨‍💻  About Me !
