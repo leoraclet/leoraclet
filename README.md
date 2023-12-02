@@ -1,6 +1,7 @@
 
-<img style="border-radius: 20%;" src="https://github.com/leoraclet/leoraclet/assets/110538448/6a73a496-d73c-4e43-9eb6-399b3367d764" />
-![banner3](https://github.com/leoraclet/leoraclet/assets/110538448/6a73a496-d73c-4e43-9eb6-399b3367d764)
+<p align="center">
+  <img width="100%" src="https://imgur.com/a/wGTMs5J" />
+</p>
 
 ## 👨‍💻  About Me !
 
