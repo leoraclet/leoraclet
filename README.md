@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="100%" src="https://imgur.com/a/wGTMs5J" />
+<img width="100%" src="https://imgur.com/a/wGTMs5J" />
 </p>
 
 ## 👨‍💻  About Me !
