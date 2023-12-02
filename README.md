@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="100%" src="https://github.com/leoraclet/leoraclet/assets/110538448/c93c1d3f-25d8-4819-a915-0f87f8515ce6" />
+	<img width="100%" src="https://github.com/leoraclet/leoraclet/assets/110538448/c93c1d3f-25d8-4819-a915-0f87f8515ce6" />
 </p>
 
 ## 👨‍💻  About Me !
@@ -14,7 +14,7 @@ Meanwhile, I also develop things on my free time, mostly in **C / C++** and **Py
 	<a href="https://www.linkedin.com/in/leoraclet/">
 		<img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 	</a>
-  <span>&nbsp;</span>
+	<span>&nbsp;</span>
 	<a href="https://www.root-me.org/NLutr0nys">
 		<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=rootme&logoColor=white">
 	</a>
