@@ -5,7 +5,8 @@
 
 ## 👨‍💻  About Me !
 
-Hi 👋 ! My name is Leo, and I'm a french engineering student in first year at **Télécom Saint-Etienne**, in France 🇫🇷 . I'm particularly interested in computer science and cybersecurity.
+Hi 👋 ! My name is Leo, and I'm a french engineering student in first year at **Télécom Saint-Etienne**, in France 🇫🇷 . I'm particularly interested in computer science and cybersecurity 🖥️.
+
 Meanwhile, I also develop things on my free time, mostly in **C / C++** and **Python**, but I always use and learn new tools and skills.
 
 ## 📭  Contact
