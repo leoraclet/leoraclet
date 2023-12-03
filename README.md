@@ -14,7 +14,7 @@ Meanwhile, I also develop things on my free time, mostly in **C / C++** and **Py
 Feel free to contact me on my email address. You can also check my **LinkedIn** and **Root-Me** profiles 👤 !
 	
 [![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leoraclet/) &nbsp;
-[![ROOT-ME](https://img.shields.io/badge/ROOTME-FCFCFC?style=for-the-badge&logo=rootme&logoColor=black)](https://www.root-me.org/NLutr0nys) &nbsp;
+[![ROOT-ME](https://img.shields.io/badge/ROOTME-F0F0F0?style=for-the-badge&logo=rootme&logoColor=black)](https://www.root-me.org/NLutr0nys) &nbsp;
 [![GMAIL](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leo.raclet@gmail.com) &nbsp;
 
 ## 🛠️ &nbsp; Languages & Tools
