@@ -10,18 +10,10 @@ Hi 👋 ! My name is Leo, and I'm a french engineering student in first year at 
 Meanwhile, I also develop things on my free time, mostly in **C / C++** and **Python**, but I always use and learn new tools.
 
 ## 📭 &nbsp; Contact
-
-<p align="center">
-	<a style="text-decoration:none;" href="https://www.linkedin.com/in/leoraclet/">
-		<img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-	</a>
-	<a href="https://www.root-me.org/NLutr0nys">
-		<img src="https://img.shields.io/badge/ROOTME-000000?style=for-the-badge&logo=rootme&logoColor=white">
-	</a>
-	<a href="mailto:leo.raclet@gmail.com">
-		<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-	</a>
-</p>
+	
+[![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leoraclet/) &nbsp;
+[![ROOT-ME](https://img.shields.io/badge/ROOTME-000000?style=for-the-badge&logo=rootme&logoColor=white)](https://www.root-me.org/NLutr0nys) &nbsp;
+[![GMAIL](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leo.raclet@gmail.com) &nbsp;
 
 ## 🛠️ &nbsp; Languages & Tools
 
