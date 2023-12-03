@@ -3,16 +3,16 @@
 	<img width="100%" src="https://github.com/leoraclet/leoraclet/assets/110538448/c93c1d3f-25d8-4819-a915-0f87f8515ce6" />
 </p>
 
-## 👨‍💻  About Me !
+## 👨‍💻 &nbsp; About Me !
 
 Hi 👋 ! My name is Leo, and I'm a french engineering student in first year at **Télécom Saint-Etienne**, in France 🇫🇷 . I'm particularly interested in computer science and cybersecurity 🖥️.
 
 Meanwhile, I also develop things on my free time, mostly in **C / C++** and **Python**, but I always use and learn new tools.
 
-## 📭  Contact
+## 📭 &nbsp; Contact
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/leoraclet/">
+	<a style="text-decoration:none;" href="https://www.linkedin.com/in/leoraclet/">
 		<img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 	</a>
 	<a href="https://www.root-me.org/NLutr0nys">
@@ -23,7 +23,7 @@ Meanwhile, I also develop things on my free time, mostly in **C / C++** and **Py
 	</a>
 </p>
 
-## 🛠️  Languages & Tools
+## 🛠️ &nbsp; Languages & Tools
 
 <div>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;&nbsp;
@@ -35,11 +35,11 @@ Meanwhile, I also develop things on my free time, mostly in **C / C++** and **Py
 	<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;&nbsp;
 </div>
 
-## 🗂️  Projects
+## 🗂️ &nbsp; Projects
 
-### ❄️  Fractal generator
+### ❄️ &nbsp; Fractal generator
 
-### 🛡️  Game of life
+### 🛡️ &nbsp; Game of life
 
 <!--
 **leoraclet/leoraclet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
