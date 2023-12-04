@@ -31,9 +31,16 @@ While developping my projects, I have learned and used many languages and tools 
 	<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="35" height="35"/>&nbsp;&nbsp;
 </div>
 
-## 🗂️ &nbsp; Projects
+## 📂 &nbsp; Projects
 
-### ❄️ &nbsp; Fractal generator
+### [❄️ &nbsp; Fractal generator *(2022)*](https://github.com/leoraclet/fractals)
+
+This program is a fractal generator that let you generate and explore colored fractals, such as Mandelbrot and Julia sets. Deep zooms in real time are made by possible by emulating double floating precision on GPU ...
+
+<p align="center">
+	<a href="https://github.com/angeluriot/Galaxy_simulation"><img src="https://github.com/leoraclet/leoraclet/blob/main/mandelbrot_colored.png" width="500"></a>
+</p>
+<br>
 
 ### 🛡️ &nbsp; Game of life
 
