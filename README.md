@@ -40,9 +40,7 @@ This program is a fractal generator, programmed in **C / C++** and using **SFML*
 <p align="center">
 	<a href="https://github.com/leoraclet/fractals"><img src="https://github.com/leoraclet/leoraclet/blob/main/mandelbrot_colored.png" width="600"></a>
 </p>
-
----
-
+<br>
 
 ### [🛡️ &nbsp; Game of life *(2021)*](https://github.com/leoraclet/game-of-life)
 
