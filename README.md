@@ -3,13 +3,13 @@
 	<img width="100%" src="https://github.com/leoraclet/leoraclet/assets/110538448/c93c1d3f-25d8-4819-a915-0f87f8515ce6" />
 </p>
 
-# 👨‍💻 &nbsp; About Me !
+## 👨‍💻 &nbsp; About Me !
 
 Hi 👋 ! My name is Leo, and I'm a french engineering student in first year at **Télécom Saint-Etienne**, in France 🇫🇷 . I'm particularly interested in computer science and cybersecurity 🖥️.
 
 Meanwhile, I also develop things on my free time, mostly in **C / C++** and **Python**, but I always use and learn new tools.
 
-# 📭 &nbsp; Contact
+## 📭 &nbsp; Contact
 
 Feel free to contact me on my email address. You can also check my **LinkedIn** and **Root-Me** profiles 👤 !
 	
@@ -17,7 +17,7 @@ Feel free to contact me on my email address. You can also check my **LinkedIn** 
 [![ROOT-ME](https://img.shields.io/badge/ROOTME-F0F0F0?style=for-the-badge&logo=rootme&logoColor=black)](https://www.root-me.org/NLutr0nys) &nbsp;
 [![GMAIL](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leo.raclet@gmail.com) &nbsp;
 
-# 🛠️ &nbsp; Languages & Tools
+## 🛠️ &nbsp; Languages & Tools
 
 While developping my projects, I have learned and used many languages and tools :
 
@@ -31,7 +31,7 @@ While developping my projects, I have learned and used many languages and tools 
 	<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="35" height="35"/>&nbsp;&nbsp;
 </div>
 
-# 📂 &nbsp; Projects
+## 📂 &nbsp; Projects
 
 ## [❄️ &nbsp; Fractal generator *(2022)*](https://github.com/leoraclet/fractals)
 
