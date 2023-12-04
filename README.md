@@ -36,9 +36,9 @@ While developping my projects, I have learned and used many languages and tools 
 ### [❄️ &nbsp; Fractal generator *(2022)*](https://github.com/leoraclet/fractals)
 
 This program is a fractal generator that let you generate and explore colored fractals, such as Mandelbrot and Julia sets. Deep zooms in real time are made by possible by emulating double floating precision on GPU ...
-
+<br>
 <p align="center">
-	<a href="https://github.com/angeluriot/Galaxy_simulation"><img src="https://github.com/leoraclet/leoraclet/blob/main/mandelbrot_colored.png" width="500"></a>
+	<a href="https://github.com/angeluriot/Galaxy_simulation"><img src="https://github.com/leoraclet/leoraclet/blob/main/mandelbrot_colored.png" width="600"></a>
 </p>
 <br>
 
