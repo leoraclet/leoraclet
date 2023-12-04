@@ -47,6 +47,6 @@ This program is a fractal generator, programmed in **C / C++** and using **SFML*
 This program is a simulation of the famous Game of Life invented by the Cambridge mathematician John Conway in 1970. It is made in **C / C++** using the **SDL**.
 <br>
 <p align="center">
-	<a href="https://github.com/leoraclet/game-of-life"><img src="https://github.com/leoraclet/leoraclet/blob/main/stage_gol.jpeg" width="600"></a>
+	<a href="https://github.com/leoraclet/game-of-life"><img src="https://github.com/leoraclet/leoraclet/blob/main/stage_gol.png" width="600"></a>
 </p>
 <br>
