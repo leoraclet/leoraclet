@@ -50,3 +50,13 @@ This program is a simulation of the famous Game of Life invented by the Cambridg
 	<a href="https://github.com/leoraclet/game-of-life"><img src="https://github.com/leoraclet/leoraclet/blob/main/stage_gol.png" width="600"></a>
 </p>
 <br>
+
+## [🪙 &nbsp; Unycoin *(2023)*](https://github.com/leoraclet/unycoin)
+
+This project is a pure **Python** implementation of a cryptocurrency similar to Bitcoin as it was first introduced by Satoshi Nakamoto's whitepaper : 
+[Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf).
+<br>
+<p align="center">
+	<a href="https://github.com/leoraclet/unycoin"><img src="https://github.com/leoraclet/leoraclet/blob/main/bitcoin.png" width="600"></a>
+</p>
+<br>
