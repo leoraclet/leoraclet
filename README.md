@@ -1,6 +1,6 @@
 
 <p align="center">
-	<img width="100%" src="https://github.com/leoraclet/leoraclet/assets/110538448/c93c1d3f-25d8-4819-a915-0f87f8515ce6" />
+	<img width="100%" src="https://github.com/user-attachments/assets/278cb5f8-b249-4238-bc65-eebf1a0f77b9" />
 </p>
 
 ## 👨‍💻 &nbsp; About Me !
