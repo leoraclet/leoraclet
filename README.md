@@ -60,3 +60,9 @@ This project is a pure **Python** implementation of a cryptocurrency similar to 
 	<a href="https://github.com/leoraclet/unycoin"><img src="https://github.com/leoraclet/leoraclet/blob/main/bitcoin.png" width="600"></a>
 </p>
 <br>
+
+## Stats
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leoraclet&show_icons=true&locale=en&layout=compact" alt="asionville" /></p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leoraclet&locale=en" alt="asionville" /></p>
