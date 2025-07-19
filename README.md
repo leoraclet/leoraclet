@@ -51,9 +51,9 @@ While developping my projects, I have learned and used many languages and tools 
 <img src="./assets/skills/Stripe.svg" title="Stripe" alt="Stripe" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./assets/skills/OpenGL.svg" title="OpenGL" alt="OpenGL" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./assets/skills/Git.svg" title="Git" alt="Git" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/skills/Unix.svg" title="Unix" alt="Unix" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/skills/vscode.svg" title="VS Code" alt="VS Code" width="50" height="50" />
+<img src="./assets/skills/Unix.svg" title="Unix" alt="Unix" width="50" height="50" />
 
+<img src="./assets/skills/vscode.svg" title="VS Code" alt="VS Code" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./assets/skills/neovim.svg" title="Neovim" alt="Neovim" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./assets/skills/arduino.svg" title="Arduino IDE" alt="Arduino IDE" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./assets/skills/pycharm.svg" title="Pycharm" alt="Pycharm" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;
@@ -63,10 +63,10 @@ While developping my projects, I have learned and used many languages and tools 
 <img src="./assets/skills/postgresql.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./assets/skills/grafana.svg" title="Grafana" alt="Grafana" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./assets/skills/django.svg" title="Django" alt="Django" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/skills/nixos.svg" title="Nixos 24.05" alt="Nixos 24.05" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/skills/windows11.svg" title="Windows 11" alt="Windows 11" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/skills/archlinux.svg" title="Arch Linux" alt="Arch Linux" width="50" height="50" />
+<img src="./assets/skills/nixos.svg" title="Nixos 24.05" alt="Nixos 24.05" width="50" height="50" />
 
+<img src="./assets/skills/windows11.svg" title="Windows 11" alt="Windows 11" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/skills/archlinux.svg" title="Arch Linux" alt="Arch Linux" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./assets/skills/raspberrypi.svg" title="Raspberry Pi OS" alt="Raspberry Pi OS" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./assets/skills/firefox.svg" title="Firefox" alt="Firefox" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./assets/skills/chatgpt.svg" title="ChatGPT" alt="ChatGPT" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;
