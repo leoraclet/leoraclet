@@ -59,7 +59,7 @@ While developping my projects, I have learned and used many languages and tools 
 		 title="SQL" alt="SQL" width="35" height="35" />
   </a>&nbsp;&nbsp;
   <a href="">
-  	<img src="./assets/skills/bash.svg" title="Bash" alt="Bash" width="35" height="35" />&nbsp;&nbsp;
+  	<img src="./assets/skills/bash.svg" title="Bash" alt="Bash" width="35" height="35" />
   </a>&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/docs/Web/HTML">
 	<img src="./assets/skills/Html.svg"
@@ -95,7 +95,9 @@ While developping my projects, I have learned and used many languages and tools 
 	<img src="./assets/skills/Unix.svg" title="Unix" alt="Unix" width="35" height="35" />
 		 </a>&nbsp;&nbsp; <a href="https://code.visualstudio.com/"> <img
   src="./assets/skills/vscode.svg" title="VS Code" alt="VS Code" width="35" height="35" />
-  </a>&nbsp;&nbsp; <br>
+  </a>&nbsp;&nbsp;
+
+  <br>
   <a href="https://neovim.io/"> <img src="./assets/skills/neovim.svg" title="Neovim" alt="Neovim"
 	width="35" height="35" /> </a>&nbsp;&nbsp; <a href="https://www.arduino.cc/en/software"> <img
   src="./assets/skills/arduino.svg" title="Arduino IDE" alt="Arduino IDE" width="35" height="35" />
@@ -118,7 +120,9 @@ While developping my projects, I have learned and used many languages and tools 
 	href="https://news.microsoft.com/windows11-general-availability/"> <img
   src="./assets/skills/windows11.svg" title="Windows 11" alt="Windows 11" width="35" height="35" />
   </a>&nbsp;&nbsp; <a href="https://www.archlinux.org/"> <img src="./assets/skills/archlinux.svg"
-	title="Arch Linux" alt="Arch Linux" width="35" height="35" /> </a>&nbsp;&nbsp; <br>
+	title="Arch Linux" alt="Arch Linux" width="35" height="35" /> </a>&nbsp;&nbsp;
+
+  <br>
   <a href="https://www.raspberrypi.org/software/raspberry-pi-os/"> <img
   src="./assets/skills/raspberrypi.svg" title="Raspberry Pi OS" alt="Raspberry Pi OS" width="35"
 	height="35" /> </a>&nbsp;&nbsp; <a href="https://www.mozilla.org/en-US/firefox"> <img
@@ -168,3 +172,13 @@ System](https://bitcoin.org/bitcoin.pdf). <br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leoraclet&show_icons=true&locale=en&layout=compact" alt="asionville" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leoraclet&locale=en" alt="asionville" /></p>
+
+<style>
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: none;
+}
+</style>
