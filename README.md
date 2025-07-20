@@ -23,54 +23,56 @@ profiles 👤 !
 [![GMAIL](https://img.shields.io/badge/-DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/454950749767200768)
 &nbsp; <br>
 
-### 🛠️ &nbsp; Languages & Tools
+### 🛠️ &nbsp; Languages, Technologies & Tools
 
-While developping my projects, I have learned and used many languages and tools :
+While developping my projects, I have learned and used many languages, technologies and tools, on
+various platforms.
 
-<br>
+### Languages
 
-<img src="./assets/skills/C.svg" title="C" alt="C" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/skills/Cpp.svg" title="C++" alt="C++" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/skills/C_sharp.svg" title="C#" alt="C#" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/skills/JavaScript.svg" title="JavaScript" alt="JavaScript" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/skills/TypeScript.svg" title="TypeScript" alt="TypeScript" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/skills/Python.svg" title="Python" alt="Python" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/skills/Sql.svg" title="SQL" alt="SQL" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/skills/bash.svg" title="Bash" alt="Bash" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/skills/Html.svg" title="HTML" alt="HTML" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/skills/Css.svg" title="CSS" alt="CSS" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/skills/Tailwind.svg" title="Tailwind CSS" alt="Tailwind CSS" width="50" height="50" />
+[![Languages](https://go-skill-icons.vercel.app/api/icons?i=matlab,html,css,js,ts,py,powershell,bash,c,cpp,cs&perline=11)](https://github.com/LelouchFR/skill-icons)
 
-<img src="./assets/skills/Svelte.svg" title="Svelte" alt="Svelte" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/skills/Vite.svg" title="Vite" alt="Vite" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/skills/Flask.svg" title="Flask" alt="Flask" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/skills/NodeJS.svg" title="Node.js" alt="Node.js" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/skills/Glm.svg" title="GLM" alt="GLM" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/skills/ImGui.svg" title="ImGui" alt="ImGui" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/skills/Sfml.svg" title="SFML" alt="SFML" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/skills/Stripe.svg" title="Stripe" alt="Stripe" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/skills/OpenGL.svg" title="OpenGL" alt="OpenGL" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/skills/Git.svg" title="Git" alt="Git" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/skills/Unix.svg" title="Unix" alt="Unix" width="50" height="50" />
+### Frameworks
 
-<img src="./assets/skills/vscode.svg" title="VS Code" alt="VS Code" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/skills/neovim.svg" title="Neovim" alt="Neovim" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/skills/arduino.svg" title="Arduino IDE" alt="Arduino IDE" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/skills/pycharm.svg" title="Pycharm" alt="Pycharm" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/skills/stm32cubeide.svg" title="STM32CubeIDE" alt="STM32CubeIDE" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/skills/docker.svg" title="Docker" alt="Docker" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/skills/postgresql.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/skills/grafana.svg" title="Grafana" alt="Grafana" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/skills/django.svg" title="Django" alt="Django" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/skills/nixos.svg" title="Nixos 24.05" alt="Nixos 24.05" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/skills/windows11.svg" title="Windows 11" alt="Windows 11" width="50" height="50" />
+[![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=django,astro,svelte,vue,vite,flask,elementplus,daisyui,tailwind&perline=11)](https://github.com/LelouchFR/skill-icons)
 
-<img src="./assets/skills/archlinux.svg" title="Arch Linux" alt="Arch Linux" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/skills/raspberrypi.svg" title="Raspberry Pi OS" alt="Raspberry Pi OS" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;
+### Support tools
 
-<br>
+[![Support
+tools](https://go-skill-icons.vercel.app/api/icons?i=nginx,bun,cmake,docker,git,mysql,redis,sqlite,celery,postgres,mysql,zellij,prettier,grafana,githubcopilot,githubactions,chatgpt,firefox,zen,stripe&perline=11)](https://github.com/LelouchFR/skill-icons)
+
+### Platforms & Professional
+
+[![Softwares](https://go-skill-icons.vercel.app/api/icons?i=arch,debian,windows,vscode,neovim,helix,nixos,arduino,discord,github,raspberrypi,obsidian,pycharm&perline=11)](https://github.com/LelouchFR/skill-icons)
+
 
 ## 📂 &nbsp; Projects
+
+## [🐧 &nbsp; NixOS Config *(2025)*](https://github.com/leoraclet/nixos-config)
+
+My NixOS 🐧 Linux ❄️ flake configuration, using Hyprland <br>
+<p align="center">
+	<a href="https://github.com/leoraclet/nixos-config"><img src="./assets/projects/nixos-config.png" width="600"></a>
+</p>
+<br>
+
+## [✒️ &nbsp; Blog & Portfolio *(2025)*](https://github.com/leoraclet/leoraclet.github.io)
+
+My personnal Portfolio & Blog ✒️
+
+<p align="center">
+	<a href="https://github.com/leoraclet/leoraclet.github.io"><img src="./assets/projects/portfolio.png" width="600"></a>
+</p>
+<br>
+
+## [📚  &nbsp; Hack&Learn *(2025)*](https://github.com/leoraclet/wiki)
+
+My personnal Wiki - Hack&Learn 📚
+
+<p align="center">
+	<a href="https://github.com/leoraclet/wiki"><img style="border: 1px solid #ccc;border-radius: 50px;" src="./assets/projects/wiki.png" width="600"></a>
+</p>
+<br>
 
 ## [❄️ &nbsp; Fractal generator *(2022)*](https://github.com/leoraclet/fractals)
 
@@ -100,6 +102,14 @@ System](https://bitcoin.org/bitcoin.pdf). <br>
 	<a href="https://github.com/leoraclet/unycoin"><img src="./assets/projects/bitcoin.png" width="600"></a>
 </p>
 <br>
+
+## [🃏 &nbsp; SuperMemo *(2024)*](https://github.com/leoraclet/super-memo)
+
+This is a school project in which we were tasked to build a simple flashcard application like Anki,
+with a UI for the user to interact with. <br>
+<p align="center">
+	<a href="https://github.com/leoraclet/super-memo"><img src="./assets/projects/super-memo.png" width="600"></a>
+</p>
 
 ## Stats
 
