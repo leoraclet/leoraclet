@@ -61,6 +61,14 @@ My NixOS 🐧 Linux ❄️ flake configuration, using Hyprland <br>
 </p>
 <br>
 
+## [💬 &nbsp; Ptibot *(2025)*](https://github.com/leoraclet/ptibot)
+
+ My little friendly Discord bot, in Python <br>
+<p align="center">
+	<a href="https://github.com/leoraclet/ptibot"><img src="./assets/projects/ptibot.png" width="300"></a>
+</p>
+<br>
+
 ## [🌐 &nbsp; Django SaaS Template *(2025)*](https://github.com/leoraclet/django-saas-template)
 
 A fully featured template for building a Django-based SaaS application with Docker.
