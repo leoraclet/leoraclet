@@ -9,6 +9,8 @@ in computer science and cybersecurity 🖥️.
 Meanwhile, I also develop things on my free time, mostly in **C / C++** and **Python**, but I always
 use and learn new tools. <br>
 
+You can learn more on me by vising my [**portfolio website**](https://leoraclet.github.io)
+
 ### 📭 &nbsp; Contact
 
 Feel free to contact me on my email address. You can also check my **LinkedIn** and **Root-Me**
@@ -30,20 +32,23 @@ various platforms.
 
 ### Languages
 
-[![Languages](https://go-skill-icons.vercel.app/api/icons?i=matlab,html,css,js,ts,py,powershell,bash,c,cpp,cs&perline=11)](https://github.com/LelouchFR/skill-icons)
+[![Languages](https://go-skill-icons.vercel.app/api/icons?i=matlab,html,css,js,ts,py,powershell,bash,c,cpp,cs,nodejs,postcss,yaml&perline=11)](https://github.com/LelouchFR/skill-icons)
 
 ### Frameworks
 
 [![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=django,astro,svelte,vue,vite,flask,elementplus,daisyui,tailwind&perline=11)](https://github.com/LelouchFR/skill-icons)
 
-### Support tools
+### Tools
 
-[![Support
-tools](https://go-skill-icons.vercel.app/api/icons?i=nginx,bun,cmake,docker,git,mysql,redis,sqlite,celery,postgres,mysql,zellij,prettier,grafana,githubcopilot,githubactions,chatgpt,firefox,zen,stripe&perline=11)](https://github.com/LelouchFR/skill-icons)
+[![Support tools](https://go-skill-icons.vercel.app/api/icons?i=nginx,sentry,docker,caddy,bun,cmake,git,mysql,redis,sqlite,celery,postgres,mysql,prettier,grafana,githubcopilot,githubactions,stripe,npm,platformio&perline=11)](https://github.com/LelouchFR/skill-icons)
 
-### Platforms & Professional
+### Platforms
 
-[![Softwares](https://go-skill-icons.vercel.app/api/icons?i=arch,debian,windows,vscode,neovim,helix,nixos,arduino,discord,github,raspberrypi,obsidian,pycharm&perline=11)](https://github.com/LelouchFR/skill-icons)
+[![Softwares](https://go-skill-icons.vercel.app/api/icons?i=arch,debian,windows,nixos,arduino,github,gitlab,raspberrypi,kali&perline=11)](https://github.com/LelouchFR/skill-icons)
+
+### Softwares
+
+[![Softwares](https://go-skill-icons.vercel.app/api/icons?i=vscode,neovim,zellij,helix,discord,thunderbird,obsidian,pycharm,clion,chatgpt,firefox,tor,zen,hyprland&perline=11)](https://github.com/LelouchFR/skill-icons)
 
 
 ## 📂 &nbsp; Projects
@@ -53,6 +58,15 @@ tools](https://go-skill-icons.vercel.app/api/icons?i=nginx,bun,cmake,docker,git,
 My NixOS 🐧 Linux ❄️ flake configuration, using Hyprland <br>
 <p align="center">
 	<a href="https://github.com/leoraclet/nixos-config"><img src="./assets/projects/nixos-config.png" width="600"></a>
+</p>
+<br>
+
+## [🌐 &nbsp; Django SaaS Template *(2025)*](https://github.com/leoraclet/django-saas-template)
+
+A fully featured template for building a Django-based SaaS application with Docker.
+
+<p align="center">
+	<a href="https://github.com/leoraclet/django-saas-template"><img src="./assets/projects/django-saas-template.png" width="600"></a>
 </p>
 <br>
 
@@ -72,6 +86,20 @@ My personnal Wiki - Hack&Learn 📚
 <p align="center">
 	<a href="https://github.com/leoraclet/wiki"><img style="border: 1px solid #ccc;border-radius: 50px;" src="./assets/projects/wiki.png" width="600"></a>
 </p>
+<br>
+
+## [📜   &nbsp; Handsome LaTeX *(2023)*](https://github.com/leoraclet/handsome-latex)
+
+Handsome LaTeX is a LaTeX template for your outstanding documents
+
+<a align="center" href="https://github.com/leoraclet/handsome-latex">
+
+|                                              |                                              |
+| :------------------------------------------: | :------------------------------------------: |
+| ![1](./assets/projects/handsome-latex-1.png) | ![2](./assets/projects/handsome-latex-2.png) |
+
+</a>
+
 <br>
 
 ## [❄️ &nbsp; Fractal generator *(2022)*](https://github.com/leoraclet/fractals)
