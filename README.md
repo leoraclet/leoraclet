@@ -1,17 +1,19 @@
-![banner](./assets/banner-rounded.png) <br>
+<!-- ![banner](./assets/banner-rounded.png) <br> -->
 
-## 🤔 &nbsp; About Me !
+# 🤔 &nbsp; About Me !
 
-Hi 👋 ! My name is Leo, and I'm a french engineering student in second year at [**Télécom
+Hi 👋 ! My name is **Leo**, and I'm a french engineering student in second year at [**Télécom
 Saint-Etienne**](https://www.telecom-st-etienne.fr/), in France 🇫🇷 . I'm particularly interested
-in computer science and cybersecurity 🖥️.
+in **computer science** and **cybersecurity** 🖥️.
 
 Meanwhile, I also develop things on my free time, mostly in **C / C++** and **Python**, but I always
 use and learn new tools. <br>
 
 You can learn more on me by vising my [**portfolio website**](https://leoraclet.github.io)
 
-### 📭 &nbsp; Contact
+
+
+## 💬 &nbsp; Contact
 
 Feel free to contact me on my email address. You can also check my **LinkedIn** and **Root-Me**
 profiles 👤 !
@@ -23,9 +25,10 @@ profiles 👤 !
 [![GMAIL](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leo.raclet@gmail.com)
 &nbsp;
 [![GMAIL](https://img.shields.io/badge/-DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/454950749767200768)
-&nbsp; <br>
+&nbsp;
+<br>
 
-### 🛠️ &nbsp; Languages, Technologies & Tools
+## 🛠️ &nbsp; Technologies & Tools
 
 While developping my projects, I have learned and used many languages, technologies and tools, on
 various platforms.
