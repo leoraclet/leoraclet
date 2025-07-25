@@ -26,6 +26,7 @@ profiles 👤 !
 &nbsp;
 [![GMAIL](https://img.shields.io/badge/-DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/454950749767200768)
 &nbsp;
+
 <br>
 
 ## 🛠️ &nbsp; Technologies & Tools
@@ -152,6 +153,6 @@ with a UI for the user to interact with. <br>
 
 ## Stats
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leoraclet&show_icons=true&locale=en&layout=compact&bg_color=00000000" alt="leoraclet stats" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leoraclet&show_icons=true&locale=en&layout=compact&bg_color=00000000&border_color=00000022" alt="leoraclet stats" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leoraclet&locale=en&show_icons=true&bg_color=00000000" alt="leoraclet stats" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leoraclet&locale=en&show_icons=true&bg_color=00000000&border_color=00000022&rank_icon=github" alt="leoraclet stats" /></p>
