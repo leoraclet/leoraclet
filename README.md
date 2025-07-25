@@ -1,6 +1,6 @@
 <!-- ![banner](./assets/banner-rounded.png) <br> -->
 
-# 🤔 &nbsp; About Me !
+## 🤔 &nbsp; About Me !
 
 Hi 👋 ! My name is **Leo**, and I'm a french engineering student in second year at [**Télécom
 Saint-Etienne**](https://www.telecom-st-etienne.fr/), in France 🇫🇷 . I'm particularly interested
@@ -152,6 +152,6 @@ with a UI for the user to interact with. <br>
 
 ## Stats
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leoraclet&show_icons=true&locale=en&layout=compact" alt="asionville" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leoraclet&show_icons=true&locale=en&layout=compact&bg_color=00000000" alt="leoraclet stats" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leoraclet&locale=en" alt="asionville" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leoraclet&locale=en&show_icons=true&bg_color=00000000" alt="leoraclet stats" /></p>
