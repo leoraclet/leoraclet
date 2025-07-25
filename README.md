@@ -26,7 +26,6 @@ profiles 👤 !
 &nbsp;
 [![GMAIL](https://img.shields.io/badge/-DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/454950749767200768)
 &nbsp;
-
 <br>
 
 ## 🛠️ &nbsp; Technologies & Tools
