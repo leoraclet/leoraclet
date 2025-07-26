@@ -2,21 +2,17 @@
 
 ## 🤔 &nbsp; About Me !
 
-Hi 👋 ! My name is **Leo**, and I'm a french engineering student in second year at [**Télécom
-Saint-Etienne**](https://www.telecom-st-etienne.fr/), in France 🇫🇷 . I'm particularly interested
-in **computer science** and **cybersecurity** 🖥️.
+Hi there 👋! I'm **Leo**, a French engineering student in my second year at [Télécom Saint-Étienne](https://www.telecom-st-etienne.fr/) in France 🇫🇷. I have a strong interest in **computer science** and **cybersecurity** 🖥️.
 
-Meanwhile, I also develop things on my free time, mostly in **C / C++** and **Python**, but I always
-use and learn new tools. <br>
+In my free time, I enjoy developing projects, primarily using **C/C++** and **Python**, but I'm always eager to explore and learn new tools.
 
-You can learn more on me by vising my [**portfolio website**](https://leoraclet.github.io)
-
+For more information about me, feel free to visit my [**Portfolio**](https://leoraclet.github.io).
 
 
 ## 💬 &nbsp; Contact
 
-Feel free to contact me on my email address. You can also check my **LinkedIn** and **Root-Me**
-profiles 👤 !
+Feel free to reach out to me via email. You can also connect with me on **LinkedIn** or check out my **Root-Me** or **Discord** profiles 👤!
+
 
 [![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leoraclet/)
 &nbsp;
@@ -30,8 +26,7 @@ profiles 👤 !
 
 ## 🛠️ &nbsp; Technologies & Tools
 
-While developping my projects, I have learned and used many languages, technologies and tools, on
-various platforms.
+Throughout the development of my projects, I have gained experience with a variety of programming languages, technologies, and tools across different platforms.
 
 ### Languages
 
@@ -58,7 +53,8 @@ various platforms.
 
 ## [🐧 &nbsp; NixOS Config *(2025)*](https://github.com/leoraclet/nixos-config)
 
-My NixOS 🐧 Linux ❄️ flake configuration, using Hyprland <br>
+My **NixOS** 🐧 **Linux** ❄️ flake configuration, meticulously set up using **Hyprland** for a seamless and efficient computing experience. This setup reflects my customized environment tailored for both productivity and performance.
+<br>
 <p align="center">
 	<a href="https://github.com/leoraclet/nixos-config"><img src="./assets/projects/nixos-config.png" width="600"></a>
 </p>
@@ -66,7 +62,8 @@ My NixOS 🐧 Linux ❄️ flake configuration, using Hyprland <br>
 
 ## [💬 &nbsp; Ptibot *(2025)*](https://github.com/leoraclet/ptibot)
 
- My little friendly Discord bot, in Python <br>
+My little friendly **Discord bot**, in **Python**
+<br>
 <p align="center">
 	<a href="https://github.com/leoraclet/ptibot"><img src="./assets/projects/ptibot.png" width="300"></a>
 </p>
@@ -74,7 +71,7 @@ My NixOS 🐧 Linux ❄️ flake configuration, using Hyprland <br>
 
 ## [🌐 &nbsp; Django SaaS Template *(2025)*](https://github.com/leoraclet/django-saas-template)
 
-A fully featured template for building a Django-based SaaS application with Docker.
+A comprehensive **template** designed for developing a Software-as-a-Service (SaaS) application using **Django** and **Docker**.
 
 <p align="center">
 	<a href="https://github.com/leoraclet/django-saas-template"><img src="./assets/projects/django-saas-template.png" width="600"></a>
@@ -83,7 +80,7 @@ A fully featured template for building a Django-based SaaS application with Dock
 
 ## [✒️ &nbsp; Blog & Portfolio *(2025)*](https://github.com/leoraclet/leoraclet.github.io)
 
-My personnal Portfolio & Blog ✒️
+My Personal **Portfolio** and **Blog** ✒️, where I showcase my work, share insights, and document my journey on various topics. It serves as a platform for both reflection and expression of my professional and personal growth.
 
 <p align="center">
 	<a href="https://github.com/leoraclet/leoraclet.github.io"><img src="./assets/projects/portfolio.png" width="600"></a>
@@ -92,7 +89,7 @@ My personnal Portfolio & Blog ✒️
 
 ## [📚  &nbsp; Hack&Learn *(2025)*](https://github.com/leoraclet/wiki)
 
-My personnal Wiki - Hack&Learn 📚
+My Personal **Wiki** - **Hack&Learn** 📚 is a compilation of insights and outcomes from various events I've attended. It also includes write-ups that I've crafted whenever I had the opportunity to document my experiences.
 
 <p align="center">
 	<a href="https://github.com/leoraclet/wiki"><img style="border: 1px solid #ccc;border-radius: 50px;" src="./assets/projects/wiki.png" width="600"></a>
@@ -101,7 +98,7 @@ My personnal Wiki - Hack&Learn 📚
 
 ## [📜   &nbsp; Handsome LaTeX *(2023)*](https://github.com/leoraclet/handsome-latex)
 
-Handsome LaTeX is a LaTeX template for your outstanding documents
+Handsome LaTeX is a sophisticated LaTeX template designed to help you create exceptional and visually appealing documents.
 
 <a align="center" href="https://github.com/leoraclet/handsome-latex">
 
@@ -115,18 +112,25 @@ Handsome LaTeX is a LaTeX template for your outstanding documents
 
 ## [❄️ &nbsp; Fractal generator *(2022)*](https://github.com/leoraclet/fractals)
 
-This program is a fractal generator, made in **C / C++** using **SFML**, that let you generate and
-explore colored fractals such as Mandelbrot and Julia sets. Deep zooms in real time are made by
-possible by emulating double floating precision on GPU. <br>
+This program is a fractal generator developed in **C/C++** using **SFML**. It allows you to generate and explore colorful fractals, including Mandelbrot and Julia sets. Real-time deep zooms are achievable by emulating double floating precision on the GPU.
+ <br>
 <p align="center">
 	<a href="https://github.com/leoraclet/fractals"><img src="./assets/projects/mandelbrot_colored.png" width="600"></a>
 </p>
 <br>
 
+## [🃏 &nbsp; SuperMemo *(2024)*](https://github.com/leoraclet/super-memo)
+
+This project is part of a school assignment where the goal was to develop a basic flashcard application similar to **Anki**. The application features a user interface (**GUI**) designed for easy interaction.
+
+<br>
+<p align="center">
+	<a href="https://github.com/leoraclet/super-memo"><img src="./assets/projects/super-memo.png" width="600"></a>
+</p>
+
 ## [🛡️ &nbsp; Game of life *(2021)*](https://github.com/leoraclet/game-of-life)
 
-This program is a simulation of the famous Game of Life invented by the Cambridge mathematician John
-Conway in 1970. It is made in **C / C++** using the **SDL**. <br>
+This program simulates Conway's Game of Life, created by mathematician John Conway in 1970. It is implemented in **C / C++** and uses the **SDL** library for graphics rendering. <br>
 <p align="center">
 	<a href="https://github.com/leoraclet/game-of-life"><img src="./assets/projects/stage_gol.png" width="600"></a>
 </p>
@@ -134,21 +138,21 @@ Conway in 1970. It is made in **C / C++** using the **SDL**. <br>
 
 ## [🪙 &nbsp; Unycoin *(2023)*](https://github.com/leoraclet/unycoin)
 
-This project is a pure **Python** implementation of a cryptocurrency similar to Bitcoin as it was
-first introduced by Satoshi Nakamoto's whitepaper : [Bitcoin: A Peer-to-Peer Electronic Cash
-System](https://bitcoin.org/bitcoin.pdf). <br>
+This project is a pure **Python** implementation of a cryptocurrency, inspired by the original Bitcoin as introduced in Satoshi Nakamoto's seminal whitepaper: [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf).
+
+<br>
 <p align="center">
 	<a href="https://github.com/leoraclet/unycoin"><img src="./assets/projects/bitcoin.png" width="600"></a>
 </p>
 <br>
 
-## [🃏 &nbsp; SuperMemo *(2024)*](https://github.com/leoraclet/super-memo)
+## [🔱 &nbsp; Hacking List *(2021)*](https://github.com/leoraclet/hacking)
 
-This is a school project in which we were tasked to build a simple flashcard application like Anki,
-with a UI for the user to interact with. <br>
+My collection of **CTF Tools** and **Archives** includes a variety of codes and tools related to Capture The Flag (**CTF**) competitions and **cybersecurity**. These resources have been accumulated and utilized over the past few years to tackle various challenges.
 <p align="center">
-	<a href="https://github.com/leoraclet/super-memo"><img src="./assets/projects/super-memo.png" width="600"></a>
+	<a href="https://github.com/leoraclet/hacking"><img src="./assets/projects/hacking.png" width="350"></a>
 </p>
+<br>
 
 ## Stats
 
