@@ -1,6 +1,6 @@
 <!-- ![banner](./assets/banner-rounded.png) <br> -->
 
-## 🤔 &nbsp; About Me !
+## 🤔 &nbsp; About Me
 
 Hi there 👋! I'm **Leo**, a French engineering student in my second year at [Télécom Saint-Étienne](https://www.telecom-st-etienne.fr/) in France 🇫🇷. I have a strong interest in **computer science** and **cybersecurity** 🖥️.
 
@@ -8,11 +8,9 @@ In my free time, I enjoy developing projects, primarily using **C/C++** and **Py
 
 For more information about me, feel free to visit my [**Portfolio**](https://leoraclet.github.io).
 
-
 ## 💬 &nbsp; Contact
 
 Feel free to reach out to me via email. You can also connect with me on **LinkedIn** or check out my **Root-Me** or **Discord** profiles 👤!
-
 
 [![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leoraclet/)
 &nbsp;
@@ -30,24 +28,19 @@ Throughout the development of my projects, I have gained experience with a varie
 
 ### Languages
 
-[![Languages](https://go-skill-icons.vercel.app/api/icons?i=matlab,html,css,js,ts,py,powershell,bash,c,cpp,cs,nodejs,postcss,yaml&perline=11)](https://github.com/LelouchFR/skill-icons)
+[![Languages](https://go-skill-icons.vercel.app/api/icons?i=matlab,html,css,js,ts,py,bash,c,cpp,cs,nodejs,yaml&perline=20&titles=true)](https://github.com/LelouchFR/skill-icons)
 
-### Frameworks
+### Technologies
 
-[![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=django,astro,svelte,vue,vite,flask,elementplus,daisyui,tailwind&perline=11)](https://github.com/LelouchFR/skill-icons)
+[![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=django,astro,svelte,vue,vite,flask,daisyui,tailwind&perline=20&titles=true)](https://github.com/LelouchFR/skill-icons)
 
 ### Tools
 
-[![Support tools](https://go-skill-icons.vercel.app/api/icons?i=nginx,sentry,docker,caddy,bun,cmake,git,mysql,redis,sqlite,celery,postgres,mysql,prettier,grafana,githubcopilot,githubactions,stripe,npm,platformio&perline=11)](https://github.com/LelouchFR/skill-icons)
+[![Support tools](https://go-skill-icons.vercel.app/api/icons?i=sentry,docker,bun,cmake,git,mysql,redis,sqlite,celery,postgres,mysql,grafana,githubactions,stripe,platformio&perline=20&titles=true)](https://github.com/LelouchFR/skill-icons)
 
 ### Platforms
 
-[![Softwares](https://go-skill-icons.vercel.app/api/icons?i=arch,debian,windows,nixos,arduino,github,gitlab,raspberrypi,kali&perline=11)](https://github.com/LelouchFR/skill-icons)
-
-### Softwares
-
-[![Softwares](https://go-skill-icons.vercel.app/api/icons?i=vscode,neovim,zellij,helix,discord,thunderbird,obsidian,pycharm,clion,chatgpt,firefox,tor,zen,hyprland&perline=11)](https://github.com/LelouchFR/skill-icons)
-
+[![Softwares](https://go-skill-icons.vercel.app/api/icons?i=arch,debian,windows,nixos,arduino,github,gitlab,raspberrypi,kali&perline=20&titles=true)](https://github.com/LelouchFR/skill-icons)
 
 ## 📂 &nbsp; Projects
 
@@ -56,7 +49,9 @@ Throughout the development of my projects, I have gained experience with a varie
 My **NixOS** 🐧 **Linux** ❄️ flake configuration, meticulously set up using **Hyprland** for a seamless and efficient computing experience. This setup reflects my customized environment tailored for both productivity and performance.
 <br>
 <p align="center">
-	<a href="https://github.com/leoraclet/nixos-config"><img src="./assets/projects/nixos-config.png" width="600"></a>
+<a href="https://github.com/leoraclet/nixos-config">
+<img src="./assets/projects/nixos-config.png" width="600">
+</a>
 </p>
 <br>
 
@@ -65,7 +60,7 @@ My **NixOS** 🐧 **Linux** ❄️ flake configuration, meticulously set up usin
 My little friendly **Discord bot**, in **Python**
 <br>
 <p align="center">
-	<a href="https://github.com/leoraclet/ptibot"><img src="./assets/projects/ptibot.png" width="300"></a>
+ <a href="https://github.com/leoraclet/ptibot"><img src="./assets/projects/ptibot.png" width="300"></a>
 </p>
 <br>
 
@@ -74,7 +69,7 @@ My little friendly **Discord bot**, in **Python**
 A comprehensive **template** designed for developing a Software-as-a-Service (SaaS) application using **Django** and **Docker**.
 
 <p align="center">
-	<a href="https://github.com/leoraclet/django-saas-template"><img src="./assets/projects/django-saas-template.png" width="600"></a>
+ <a href="https://github.com/leoraclet/django-saas-template"><img src="./assets/projects/django-saas-template.png" width="600"></a>
 </p>
 <br>
 
@@ -83,7 +78,7 @@ A comprehensive **template** designed for developing a Software-as-a-Service (Sa
 My Personal **Portfolio** and **Blog** ✒️, where I showcase my work, share insights, and document my journey on various topics. It serves as a platform for both reflection and expression of my professional and personal growth.
 
 <p align="center">
-	<a href="https://github.com/leoraclet/leoraclet.github.io"><img src="./assets/projects/portfolio.png" width="600"></a>
+ <a href="https://github.com/leoraclet/leoraclet.github.io"><img src="./assets/projects/portfolio.png" width="600"></a>
 </p>
 <br>
 
@@ -92,7 +87,7 @@ My Personal **Portfolio** and **Blog** ✒️, where I showcase my work, share i
 My Personal **Wiki** - **Hack&Learn** 📚 is a compilation of insights and outcomes from various events I've attended. It also includes write-ups that I've crafted whenever I had the opportunity to document my experiences.
 
 <p align="center">
-	<a href="https://github.com/leoraclet/wiki"><img style="border: 1px solid #ccc;border-radius: 50px;" src="./assets/projects/wiki.png" width="600"></a>
+ <a href="https://github.com/leoraclet/wiki"><img style="border: 1px solid #ccc;border-radius: 50px;" src="./assets/projects/wiki.png" width="600"></a>
 </p>
 <br>
 
@@ -115,7 +110,7 @@ Handsome LaTeX is a sophisticated LaTeX template designed to help you create exc
 This program is a fractal generator developed in **C/C++** using **SFML**. It allows you to generate and explore colorful fractals, including Mandelbrot and Julia sets. Real-time deep zooms are achievable by emulating double floating precision on the GPU.
  <br>
 <p align="center">
-	<a href="https://github.com/leoraclet/fractals"><img src="./assets/projects/mandelbrot_colored.png" width="600"></a>
+ <a href="https://github.com/leoraclet/fractals"><img src="./assets/projects/mandelbrot_colored.png" width="600"></a>
 </p>
 <br>
 
@@ -125,14 +120,14 @@ This project is part of a school assignment where the goal was to develop a basi
 
 <br>
 <p align="center">
-	<a href="https://github.com/leoraclet/super-memo"><img src="./assets/projects/super-memo.png" width="600"></a>
+ <a href="https://github.com/leoraclet/super-memo"><img src="./assets/projects/super-memo.png" width="600"></a>
 </p>
 
 ## [🛡️ &nbsp; Game of life *(2021)*](https://github.com/leoraclet/game-of-life)
 
 This program simulates Conway's Game of Life, created by mathematician John Conway in 1970. It is implemented in **C / C++** and uses the **SDL** library for graphics rendering. <br>
 <p align="center">
-	<a href="https://github.com/leoraclet/game-of-life"><img src="./assets/projects/stage_gol.png" width="600"></a>
+ <a href="https://github.com/leoraclet/game-of-life"><img src="./assets/projects/stage_gol.png" width="600"></a>
 </p>
 <br>
 
@@ -142,7 +137,7 @@ This project is a pure **Python** implementation of a cryptocurrency, inspired b
 
 <br>
 <p align="center">
-	<a href="https://github.com/leoraclet/unycoin"><img src="./assets/projects/bitcoin.png" width="600"></a>
+ <a href="https://github.com/leoraclet/unycoin"><img src="./assets/projects/bitcoin.png" width="600"></a>
 </p>
 <br>
 
@@ -150,7 +145,7 @@ This project is a pure **Python** implementation of a cryptocurrency, inspired b
 
 My collection of **CTF Tools** and **Archives** includes a variety of codes and tools related to Capture The Flag (**CTF**) competitions and **cybersecurity**. These resources have been accumulated and utilized over the past few years to tackle various challenges.
 <p align="center">
-	<a href="https://github.com/leoraclet/hacking"><img src="./assets/projects/hacking.png" width="350"></a>
+ <a href="https://github.com/leoraclet/hacking"><img src="./assets/projects/hacking.png" width="350"></a>
 </p>
 <br>
 
