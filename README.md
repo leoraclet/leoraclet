@@ -28,11 +28,11 @@ Throughout the development of my projects, I have gained experience with a varie
 
 ### Languages
 
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=matlab,html,css,js,ts,py,bash,c,cpp,cs,nodejs,yaml&perline=20&titles=true)]
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=matlab,html,css,js,ts,py,bash,c,cpp,cs,nodejs,yaml&perline=20&titles=true)
 
 ### Technologies
 
-![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=django,astro,svelte,vue,vite,flask,daisyui,tailwind&perline=20&titles=true)]
+![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=django,astro,svelte,vue,vite,flask,daisyui,tailwind&perline=20&titles=true)
 
 ### Tools
 
@@ -42,7 +42,9 @@ Throughout the development of my projects, I have gained experience with a varie
 
 ![Softwares](https://go-skill-icons.vercel.app/api/icons?i=arch,debian,windows,nixos,arduino,github,gitlab,raspberrypi,kali&perline=20&titles=true)
 
-## 📂 &nbsp; Projects
+<br>
+
+# 📂 &nbsp; Projects
 
 ## [🐧 &nbsp; NixOS Config *(2025)*](https://github.com/leoraclet/nixos-config)
 
