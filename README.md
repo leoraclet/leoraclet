@@ -28,19 +28,19 @@ Throughout the development of my projects, I have gained experience with a varie
 
 ### Languages
 
-[![Languages](https://go-skill-icons.vercel.app/api/icons?i=matlab,html,css,js,ts,py,bash,c,cpp,cs,nodejs,yaml&perline=20&titles=true)](https://github.com/LelouchFR/skill-icons)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=matlab,html,css,js,ts,py,bash,c,cpp,cs,nodejs,yaml&perline=20&titles=true)]
 
 ### Technologies
 
-[![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=django,astro,svelte,vue,vite,flask,daisyui,tailwind&perline=20&titles=true)](https://github.com/LelouchFR/skill-icons)
+![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=django,astro,svelte,vue,vite,flask,daisyui,tailwind&perline=20&titles=true)]
 
 ### Tools
 
-[![Support tools](https://go-skill-icons.vercel.app/api/icons?i=sentry,docker,bun,cmake,git,mysql,redis,sqlite,celery,postgres,mysql,grafana,githubactions,stripe,platformio&perline=20&titles=true)](https://github.com/LelouchFR/skill-icons)
+![Support tools](https://go-skill-icons.vercel.app/api/icons?i=sentry,docker,bun,cmake,git,mysql,redis,sqlite,celery,postgres,mysql,grafana,githubactions,stripe,platformio&perline=20&titles=true)
 
 ### Platforms
 
-[![Softwares](https://go-skill-icons.vercel.app/api/icons?i=arch,debian,windows,nixos,arduino,github,gitlab,raspberrypi,kali&perline=20&titles=true)](https://github.com/LelouchFR/skill-icons)
+![Softwares](https://go-skill-icons.vercel.app/api/icons?i=arch,debian,windows,nixos,arduino,github,gitlab,raspberrypi,kali&perline=20&titles=true)
 
 ## 📂 &nbsp; Projects
 
@@ -70,24 +70,6 @@ A comprehensive **template** designed for developing a Software-as-a-Service (Sa
 
 <p align="center">
  <a href="https://github.com/leoraclet/django-saas-template"><img src="./assets/projects/django-saas-template.png" width="600"></a>
-</p>
-<br>
-
-## [✒️ &nbsp; Blog & Portfolio *(2025)*](https://github.com/leoraclet/leoraclet.github.io)
-
-My Personal **Portfolio** and **Blog** ✒️, where I showcase my work, share insights, and document my journey on various topics. It serves as a platform for both reflection and expression of my professional and personal growth.
-
-<p align="center">
- <a href="https://github.com/leoraclet/leoraclet.github.io"><img src="./assets/projects/portfolio.png" width="600"></a>
-</p>
-<br>
-
-## [📚  &nbsp; Hack&Learn *(2025)*](https://github.com/leoraclet/wiki)
-
-My Personal **Wiki** - **Hack&Learn** 📚 is a compilation of insights and outcomes from various events I've attended. It also includes write-ups that I've crafted whenever I had the opportunity to document my experiences.
-
-<p align="center">
- <a href="https://github.com/leoraclet/wiki"><img style="border: 1px solid #ccc;border-radius: 50px;" src="./assets/projects/wiki.png" width="600"></a>
 </p>
 <br>
 
