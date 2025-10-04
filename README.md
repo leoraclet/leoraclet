@@ -1,12 +1,10 @@
-<!-- ![banner](./assets/banner-rounded.png) <br> -->
-
 ## 🤔 &nbsp; About Me
 
-Hi there 👋! I'm **Leo**, a French engineering student in my second year at [Télécom Saint-Étienne](https://www.telecom-st-etienne.fr/) in France 🇫🇷. I have a strong interest in **computer science** and **cybersecurity** 🖥️.
+Hi there 👋! I'm **Leo**, a French engineering student in my second year at [**Télécom Saint-Étienne**](https://www.telecom-st-etienne.fr/) in France 🇫🇷. I have a strong interest in **computer science** and **cybersecurity** 🖥️.
 
 In my free time, I enjoy developing projects, primarily using **C/C++** and **Python**, but I'm always eager to explore and learn new tools.
 
-For more information about me, feel free to visit my [**Portfolio**](https://leoraclet.github.io).
+For more information about me, feel free to visit my [**Portfolio**](https://leoraclet.github.io) or go check out my [**projects**](#--projects).
 
 ## 💬 &nbsp; Contact
 
@@ -26,23 +24,27 @@ Feel free to reach out to me via email. You can also connect with me on **Linked
 
 Throughout the development of my projects, I have gained experience with a variety of programming languages, technologies, and tools across different platforms.
 
-### Languages
+### 📝 Languages
 
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=matlab,html,css,js,ts,py,bash,c,cpp,cs,nodejs,yaml&perline=20&titles=true)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=matlab,html,css,js,ts,py,bash,c,cpp,cs,nodejs,yaml,markdown&perline=10&titles=true)
 
-### Technologies
+### 🚀 Technologies
 
-![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=django,astro,svelte,vue,vite,flask,daisyui,tailwind&perline=20&titles=true)
+![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=django,astro,svelte,vue,vite,flask,daisyui,tailwind&perline=10&titles=true)
 
-### Tools
+### 🪛 Tools
 
-![Support tools](https://go-skill-icons.vercel.app/api/icons?i=sentry,docker,bun,cmake,git,mysql,redis,sqlite,celery,postgres,mysql,grafana,githubactions,stripe,platformio&perline=20&titles=true)
+![Support tools](https://go-skill-icons.vercel.app/api/icons?i=sentry,docker,bun,cmake,git,mysql,redis,sqlite,celery,postgres,grafana,githubactions,stripe,platformio&perline=10&titles=true)
 
-### Platforms
+### 💻 Platforms
 
-![Softwares](https://go-skill-icons.vercel.app/api/icons?i=arch,debian,windows,nixos,arduino,github,gitlab,raspberrypi,kali&perline=20&titles=true)
+![Softwares](https://go-skill-icons.vercel.app/api/icons?i=arch,debian,windows,nixos,arduino,github,gitlab,raspberrypi,kali&perline=10&titles=true)
 
-<br>
+## 🔒 Cybersecurity
+
+Here are my stats on [**Root-Me**](https://www.root-me.org/?lang=en) ! (The fast, easy, and affordable way to train your hacking skills)
+
+![Root-Me stats](https://root-me-diff.vercel.app/rm-gh?nickname=NLutr0nys&gstats=show&style=dark)
 
 # 📂 &nbsp; Projects
 
@@ -52,7 +54,7 @@ My **NixOS** 🐧 **Linux** ❄️ flake configuration, meticulously set up usin
 <br>
 <p align="center">
 <a href="https://github.com/leoraclet/nixos-config">
-<img src="./assets/projects/nixos-config.png" width="600">
+<img src="./assets/projects/nixos-config.png" width="600" alt="">
 </a>
 </p>
 <br>
@@ -62,7 +64,7 @@ My **NixOS** 🐧 **Linux** ❄️ flake configuration, meticulously set up usin
 My little friendly **Discord bot**, in **Python**
 <br>
 <p align="center">
- <a href="https://github.com/leoraclet/ptibot"><img src="./assets/projects/ptibot.png" width="300"></a>
+ <a href="https://github.com/leoraclet/ptibot"><img src="./assets/projects/ptibot.png" width="300" alt=""></a>
 </p>
 <br>
 
@@ -71,13 +73,13 @@ My little friendly **Discord bot**, in **Python**
 A comprehensive **template** designed for developing a Software-as-a-Service (SaaS) application using **Django** and **Docker**.
 
 <p align="center">
- <a href="https://github.com/leoraclet/django-saas-template"><img src="./assets/projects/django-saas-template.png" width="600"></a>
+ <a href="https://github.com/leoraclet/django-saas-template"><img src="./assets/projects/django-saas-template.png" width="600" alt=""></a>
 </p>
 <br>
 
 ## [📜   &nbsp; Handsome LaTeX *(2023)*](https://github.com/leoraclet/handsome-latex)
 
-Handsome LaTeX is a sophisticated LaTeX template designed to help you create exceptional and visually appealing documents.
+**Handsome LaTeX** is a sophisticated LaTeX template designed to help you create exceptional and visually appealing documents.
 
 <a align="center" href="https://github.com/leoraclet/handsome-latex">
 
@@ -94,7 +96,7 @@ Handsome LaTeX is a sophisticated LaTeX template designed to help you create exc
 This program is a fractal generator developed in **C/C++** using **SFML**. It allows you to generate and explore colorful fractals, including Mandelbrot and Julia sets. Real-time deep zooms are achievable by emulating double floating precision on the GPU.
  <br>
 <p align="center">
- <a href="https://github.com/leoraclet/fractals"><img src="./assets/projects/mandelbrot_colored.png" width="600"></a>
+ <a href="https://github.com/leoraclet/fractals"><img src="./assets/projects/mandelbrot_colored.png" width="600" alt=""></a>
 </p>
 <br>
 
@@ -104,14 +106,14 @@ This project is part of a school assignment where the goal was to develop a basi
 
 <br>
 <p align="center">
- <a href="https://github.com/leoraclet/super-memo"><img src="./assets/projects/super-memo.png" width="600"></a>
+ <a href="https://github.com/leoraclet/super-memo"><img src="./assets/projects/super-memo.png" width="600" alt=""></a>
 </p>
 
 ## [🛡️ &nbsp; Game of life *(2021)*](https://github.com/leoraclet/game-of-life)
 
 This program simulates Conway's Game of Life, created by mathematician John Conway in 1970. It is implemented in **C / C++** and uses the **SDL** library for graphics rendering. <br>
 <p align="center">
- <a href="https://github.com/leoraclet/game-of-life"><img src="./assets/projects/stage_gol.png" width="600"></a>
+ <a href="https://github.com/leoraclet/game-of-life"><img src="./assets/projects/stage_gol.png" width="600" alt=""></a>
 </p>
 <br>
 
@@ -121,7 +123,7 @@ This project is a pure **Python** implementation of a cryptocurrency, inspired b
 
 <br>
 <p align="center">
- <a href="https://github.com/leoraclet/unycoin"><img src="./assets/projects/bitcoin.png" width="600"></a>
+ <a href="https://github.com/leoraclet/unycoin"><img src="./assets/projects/bitcoin.png" width="600" alt=""></a>
 </p>
 <br>
 
@@ -129,11 +131,11 @@ This project is a pure **Python** implementation of a cryptocurrency, inspired b
 
 My collection of **CTF Tools** and **Archives** includes a variety of codes and tools related to Capture The Flag (**CTF**) competitions and **cybersecurity**. These resources have been accumulated and utilized over the past few years to tackle various challenges.
 <p align="center">
- <a href="https://github.com/leoraclet/hacking"><img src="./assets/projects/hacking.png" width="350"></a>
+ <a href="https://github.com/leoraclet/hacking"><img src="./assets/projects/hacking.png" width="350" alt=""></a>
 </p>
 <br>
 
-## Stats
+## 📊 Github Stats
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leoraclet&show_icons=true&locale=en&layout=compact&bg_color=00000000&border_color=00000022" alt="leoraclet stats" /></p>
 
