@@ -4,7 +4,7 @@ Hi there 👋! I'm **Leo**, a French engineering student in my third year at [**
 
 In my free time, I enjoy developing projects, primarily using **C/C++** and **Python**, but I'm always eager to explore and learn new tools.
 
-For more information about me, feel free to visit my [**Portfolio**](https://leoraclet.github.io) or go check out my [**projects**](#--projects).
+For more information about me, feel free to visit my [**Portfolio**](https://leoraclet.github.io) or go check out my [**Projects**](#--projects).
 
 ## 💬 &nbsp; Contact
 
@@ -26,7 +26,7 @@ Throughout the development of my projects, I have gained experience with a varie
 
 ### 📝 Languages
 
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=matlab,html,css,js,ts,py,bash,c,cpp,cs,nodejs,yaml,markdown&perline=10&titles=true)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=matlab,html,css,js,ts,py,bash,c,cpp,cs,nodejs,yaml,markdown,latex&perline=10&titles=true)
 
 ### 🚀 Technologies
 
@@ -44,7 +44,7 @@ Throughout the development of my projects, I have gained experience with a varie
 
 Here are my stats on [**Root-Me**](https://www.root-me.org/?lang=en) ! (The fast, easy, and affordable way to train your hacking skills)
 
-![Root-Me stats](https://root-me-diff.vercel.app/rm-gh?nickname=NLutr0nys&gstats=show&style=dark)
+![Root-Me stats](https://root-me-diff.vercel.app/rm-gh?nickname=NLutr0nys&gstats=show&style=light)
 
 # 📂 &nbsp; Projects
 
