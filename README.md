@@ -1,6 +1,6 @@
 ## 🤔 &nbsp; About Me
 
-Hi there 👋! I'm **Leo**, a French engineering student in my second year at [**Télécom Saint-Étienne**](https://www.telecom-st-etienne.fr/) in France 🇫🇷. I have a strong interest in **computer science** and **cybersecurity** 🖥️.
+Hi there 👋! I'm **Leo**, a French engineering student in my third year at [**Télécom Saint-Étienne**](https://www.telecom-st-etienne.fr/) in France 🇫🇷. I have a strong interest in **computer science** and **cybersecurity** 🖥️.
 
 In my free time, I enjoy developing projects, primarily using **C/C++** and **Python**, but I'm always eager to explore and learn new tools.
 
