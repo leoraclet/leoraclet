@@ -1,8 +1,14 @@
 ## 🤔 &nbsp; About Me
 
-Hi there 👋! I'm **Leo**, a French engineering student in my third year at [**Télécom Saint-Étienne**](https://www.telecom-st-etienne.fr/) in France 🇫🇷. I have a strong interest in **computer science** and **cybersecurity** 🖥️.
+Hi there 👋! I'm **Leo**, a French 🇫🇷 developer, cybersecurity enthusiast and lifelong learner, always pushing my limits to understand our World. I have a strong interest in **computer science** and **cybersecurity** 🖥️.
 
-In my free time, I enjoy developing projects, primarily using **C/C++** and **Python**, but I'm always eager to explore and learn new tools.
+In my free time, I enjoy developing projects, primarily using **C/C++** and **Python**, but I'm always eager to explore and learn new tools & technologies. I also consistently train my hacking skills online.
+
+- 👉 Hackfest ...
+- 👉 Top100 404CTF 2024 & 2025
+- 👉 Top50 HeroCTF v6 & v4
+- 👉 Top 1% on [Root-Me](#-cybersecurity)
+- 👉 And I 💙 **Open Source**
 
 For more information about me, feel free to visit my [**Portfolio**](https://leoraclet.github.io) or go check out my [**Projects**](#--projects).
 
@@ -42,11 +48,13 @@ Throughout the development of my projects, I have gained experience with a varie
 
 ## 🔒 Cybersecurity
 
-Here are my stats on [**Root-Me**](https://www.root-me.org/?lang=en) ! (The fast, easy, and affordable way to train your hacking skills)
+Here are my hacking stats on [**Root-Me**](https://www.root-me.org/?lang=en) ! (The fast, easy, and affordable way to train your hacking skills)
 
 ![Root-Me stats](https://root-me-diff.vercel.app/rm-gh?nickname=NLutr0nys&gstats=show&style=light)
 
 # 📂 &nbsp; Projects
+
+Here you'll find some of my best / finished projects that I've made over the years.
 
 ## [🐧 &nbsp; NixOS Config *(2025)*](https://github.com/leoraclet/nixos-config)
 
