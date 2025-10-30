@@ -76,15 +76,15 @@ A comprehensive **template** designed for developing a Software-as-a-Service (Sa
 </p>
 <br>
 
-## [📜   &nbsp; Handsome LaTeX *(2024)*](https://github.com/leoraclet/handsome-latex)
+## [📜   &nbsp; Awesome LaTeX *(2024)*](https://github.com/leoraclet/awesome-latex-template)
 
-**Handsome LaTeX** is a sophisticated LaTeX template designed to help you create exceptional and visually appealing documents.
+**Awesome LaTeX** is a sophisticated LaTeX template designed to help you create exceptional and visually appealing documents.
 
-<a align="center" href="https://github.com/leoraclet/handsome-latex">
+<a align="center" href="https://github.com/leoraclet/awesome-latex-template">
 
 |                                              |                                              |
 | :------------------------------------------: | :------------------------------------------: |
-| ![1](./assets/projects/handsome-latex-1.png) | ![2](./assets/projects/handsome-latex-2.png) |
+| ![1](./assets/projects/awesome-latex-1.png) | ![2](./assets/projects/awesome-latex-2.png) |
 
 </a>
 
@@ -104,7 +104,7 @@ This project is part of a school assignment where the goal was to develop a basi
 This program is a fractal generator developed in **C/C++** using **SFML**. It allows you to generate and explore colorful fractals, including Mandelbrot and Julia sets. Real-time deep zooms are achievable by emulating double floating precision on the GPU.
  <br>
 <p align="center">
- <a href="https://github.com/leoraclet/fractals"><img src="./assets/projects/mandelbrot_colored.png" width="600" alt=""></a>
+ <a href="https://github.com/leoraclet/fractals-generator"><img src="./assets/projects/mandelbrot_colored.png" width="600" alt=""></a>
 </p>
 <br>
 
