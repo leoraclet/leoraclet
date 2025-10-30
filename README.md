@@ -1,13 +1,13 @@
-## 🤔 &nbsp; About Me
+# 🤔 &nbsp; About Me
 
 Hi there 👋! I'm **Leo**, a French 🇫🇷 developer, cybersecurity enthusiast and lifelong learner, always pushing my limits to understand our World. I have a strong interest in **computer science** and **cybersecurity** 🖥️.
 
 In my free time, I enjoy developing projects, primarily using **C/C++** and **Python**, but I'm always eager to explore and learn new tools & technologies. I also consistently train my hacking skills online.
 
-- 👉 Hackfest ...
-- 👉 Top100 404CTF 2024 & 2025
-- 👉 Top50 HeroCTF v6 & v4
-- 👉 Top 1% on [Root-Me](#-cybersecurity)
+- 👉 Top **13** Hackfest CTF
+- 👉 Top **100** 404CTF 2024 & 2025
+- 👉 Top **50** HeroCTF v6 & v4
+- 👉 Top **1%** on [Root-Me](#-cybersecurity)
 - 👉 And I 💙 **Open Source**
 
 For more information about me, feel free to visit my [**Portfolio**](https://leoraclet.github.io) or go check out my [**Projects**](#--projects).
@@ -67,15 +67,6 @@ My **NixOS** 🐧 **Linux** ❄️ flake configuration, meticulously set up usin
 </p>
 <br>
 
-## [💬 &nbsp; Ptibot *(2025)*](https://github.com/leoraclet/ptibot)
-
-My little friendly **Discord bot**, in **Python**
-<br>
-<p align="center">
- <a href="https://github.com/leoraclet/ptibot"><img src="./assets/projects/ptibot.png" width="300" alt=""></a>
-</p>
-<br>
-
 ## [🌐 &nbsp; Django SaaS Template *(2025)*](https://github.com/leoraclet/django-saas-template)
 
 A comprehensive **template** designed for developing a Software-as-a-Service (SaaS) application using **Django** and **Docker**.
@@ -85,7 +76,7 @@ A comprehensive **template** designed for developing a Software-as-a-Service (Sa
 </p>
 <br>
 
-## [📜   &nbsp; Handsome LaTeX *(2023)*](https://github.com/leoraclet/handsome-latex)
+## [📜   &nbsp; Handsome LaTeX *(2024)*](https://github.com/leoraclet/handsome-latex)
 
 **Handsome LaTeX** is a sophisticated LaTeX template designed to help you create exceptional and visually appealing documents.
 
@@ -99,15 +90,6 @@ A comprehensive **template** designed for developing a Software-as-a-Service (Sa
 
 <br>
 
-## [❄️ &nbsp; Fractal generator *(2022)*](https://github.com/leoraclet/fractals)
-
-This program is a fractal generator developed in **C/C++** using **SFML**. It allows you to generate and explore colorful fractals, including Mandelbrot and Julia sets. Real-time deep zooms are achievable by emulating double floating precision on the GPU.
- <br>
-<p align="center">
- <a href="https://github.com/leoraclet/fractals"><img src="./assets/projects/mandelbrot_colored.png" width="600" alt=""></a>
-</p>
-<br>
-
 ## [🃏 &nbsp; SuperMemo *(2024)*](https://github.com/leoraclet/super-memo)
 
 This project is part of a school assignment where the goal was to develop a basic flashcard application similar to **Anki**. The application features a user interface (**GUI**) designed for easy interaction.
@@ -117,6 +99,15 @@ This project is part of a school assignment where the goal was to develop a basi
  <a href="https://github.com/leoraclet/super-memo"><img src="./assets/projects/super-memo.png" width="600" alt=""></a>
 </p>
 
+## [❄️ &nbsp; Fractal generator *(2022)*](https://github.com/leoraclet/fractals)
+
+This program is a fractal generator developed in **C/C++** using **SFML**. It allows you to generate and explore colorful fractals, including Mandelbrot and Julia sets. Real-time deep zooms are achievable by emulating double floating precision on the GPU.
+ <br>
+<p align="center">
+ <a href="https://github.com/leoraclet/fractals"><img src="./assets/projects/mandelbrot_colored.png" width="600" alt=""></a>
+</p>
+<br>
+
 ## [🛡️ &nbsp; Game of life *(2021)*](https://github.com/leoraclet/game-of-life)
 
 This program simulates Conway's Game of Life, created by mathematician John Conway in 1970. It is implemented in **C / C++** and uses the **SDL** library for graphics rendering. <br>
@@ -125,7 +116,7 @@ This program simulates Conway's Game of Life, created by mathematician John Conw
 </p>
 <br>
 
-## [🪙 &nbsp; Unycoin *(2023)*](https://github.com/leoraclet/unycoin)
+## [🪙 &nbsp; Unycoin *(2021)*](https://github.com/leoraclet/unycoin)
 
 This project is a pure **Python** implementation of a cryptocurrency, inspired by the original Bitcoin as introduced in Satoshi Nakamoto's seminal whitepaper: [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf).
 
@@ -138,9 +129,7 @@ This project is a pure **Python** implementation of a cryptocurrency, inspired b
 ## [🔱 &nbsp; Hacking List *(2021)*](https://github.com/leoraclet/hacking)
 
 My collection of **CTF Tools** and **Archives** includes a variety of codes and tools related to Capture The Flag (**CTF**) competitions and **cybersecurity**. These resources have been accumulated and utilized over the past few years to tackle various challenges.
-<p align="center">
- <a href="https://github.com/leoraclet/hacking"><img src="./assets/projects/hacking.png" width="350" alt=""></a>
-</p>
+
 <br>
 
 ## 📊 Github Stats
