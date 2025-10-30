@@ -99,7 +99,7 @@ This project is part of a school assignment where the goal was to develop a basi
  <a href="https://github.com/leoraclet/super-memo"><img src="./assets/projects/super-memo.png" width="600" alt=""></a>
 </p>
 
-## [❄️ &nbsp; Fractal generator *(2022)*](https://github.com/leoraclet/fractals)
+## [❄️ &nbsp; Fractal generator *(2022)*](https://github.com/leoraclet/fractals-generator)
 
 This program is a fractal generator developed in **C/C++** using **SFML**. It allows you to generate and explore colorful fractals, including Mandelbrot and Julia sets. Real-time deep zooms are achievable by emulating double floating precision on the GPU.
  <br>
