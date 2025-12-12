@@ -2,15 +2,22 @@
 
 Hi there 👋! I'm **Leo**, a French 🇫🇷 developer, cybersecurity enthusiast and lifelong learner, always pushing my limits to understand our World. I have a strong interest in **computer science** and **cybersecurity** 🖥️.
 
-In my free time, I enjoy developing projects, primarily using **C/C++** and **Python**, but I'm always eager to explore and learn new tools & technologies. I also consistently train my hacking skills online.
+In my free time, I enjoy developing projects, primarily using **C/C++** and **Python**, but I'm always eager to explore and learn new tools & technologies. I also consistently train my hacking skills online, through platforms and CTFs :
 
 - 👉 Top **13** Hackfest CTF
+- 👉 Top **2** MiniCTF (UQAC homemade CTF)
 - 👉 Top **100** 404CTF 2024 & 2025
 - 👉 Top **50** HeroCTF v6 & v4
-- 👉 Top **1%** on [Root-Me](#-cybersecurity)
-- 👉 And I 💙 **Open Source**
+- 👉 Top **1%** on [Root-Me](#-cybersecurity) (Score: 6960 pts)
 
 For more information about me, feel free to visit my [**Portfolio**](https://leoraclet.github.io) or go check out my [**Projects**](#--projects).
+
+Currently, I'm woking on :
+
+- [Fractal explorer](#️--fractal-generator-2022) - ❄️ A colorfull real time fractal generator and explorer, using GLSL
+- [My NixOS configuration](#--nixos-config-2025) - 🐧My NixOS Configuration with Dofiles, using Hyprland and Fish 🐟
+
+***Also, I 💙 Open Source***
 
 ## 💬 &nbsp; Contact
 
@@ -82,8 +89,8 @@ A comprehensive **template** designed for developing a Software-as-a-Service (Sa
 
 <a align="center" href="https://github.com/leoraclet/awesome-latex-template">
 
-|                                              |                                              |
-| :------------------------------------------: | :------------------------------------------: |
+|                                             |                                             |
+| :-----------------------------------------: | :-----------------------------------------: |
 | ![1](./assets/projects/awesome-latex-1.png) | ![2](./assets/projects/awesome-latex-2.png) |
 
 </a>
