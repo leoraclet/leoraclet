@@ -14,8 +14,9 @@ Currently, I'm woking on :
 
 - [Fractal explorer](#️--fractal-generator-2022) - ❄️ A colorfull real time fractal generator and explorer, using GLSL
 - [My NixOS configuration](#--nixos-config-2025) - 🐧My NixOS Configuration with Dofiles, using Hyprland and Fish 🐟
+- [VHDL Designs](https://github.com/leoraclet/vhdl-designs) - 🔌 A collection of simple VHDL designs, modules and circuits
 
-For more information about me, feel free to visit my [**Portfolio**](https://leoraclet.github.io) or go check out my other [**Projects**](#--projects).
+For more information, feel free to visit my [**Portfolio**](https://leoraclet.github.io) or go check out my other [**Projects**](#--projects).
 
 ## 💬 &nbsp; Contact
 
@@ -136,9 +137,15 @@ This project is a pure **Python** implementation of a cryptocurrency, inspired b
 My collection of **CTF Tools** and **Archives** includes a variety of codes and tools related to Capture The Flag (**CTF**) competitions and **cybersecurity**. These resources have been accumulated and utilized over the past few years to tackle various challenges.
 
 <br>
+<p align="center">
+ <a href="https://github.com/leoraclet/hacking"><img src="./assets/projects/hacking.png" width="400" alt=""></a>
+</p>
+<br>
 
 ## 📊 Github Stats
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leoraclet&show_icons=true&locale=en&layout=compact&bg_color=00000000&border_color=00000022" alt="leoraclet stats" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leoraclet&show_icons=true&locale=en&layout=compact&bg_color=00000000&border_color=00000022" alt="
+N£utr0nys stats" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leoraclet&locale=en&show_icons=true&bg_color=00000000&border_color=00000022&rank_icon=github" alt="leoraclet stats" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leoraclet&locale=en&show_icons=true&bg_color=00000000&border_color=00000022&rank_icon=github" alt="
+N£utr0nys stats" /></p>
