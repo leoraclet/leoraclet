@@ -2,15 +2,15 @@
 
 Hi there 👋! I'm **Leo**, a French 🇫🇷 developer, cybersecurity enthusiast and lifelong learner, always pushing my limits to understand our World. I have a strong interest in **computer science** and **cybersecurity** 🖥️.
 
-In my free time, I enjoy developing projects, primarily using **C/C++** and **Python**, but I'm always eager to explore and learn new tools & technologies. I also consistently train my hacking skills online, through platforms and CTFs :
+In my free time, I enjoy developing projects, primarily using **C/C++** and **Python**, but I'm always eager to explore and learn new tools & technologies. I also consistently train my hacking skills online, through platforms and CTF :
 
 - 👉 Top **13** Hackfest CTF
 - 👉 Top **2** MiniCTF (UQAC homemade CTF)
-- 👉 Top **100** 404CTF 2024 & 2025
+- 👉 Top **61 & 67** at 404CTF 2024 & 2025
 - 👉 Top **50** HeroCTF v6 & v4
-- 👉 Top **1%** on [Root-Me](#-cybersecurity) (Score: 6960 pts)
+- 👉 Top **764** on [Root-Me](#-cybersecurity) (Score: 6960 pts)
 
-Currently, I'm woking on :
+Currently, I'm working on :
 
 - [Fractal explorer](#️--fractal-generator-2022) - ❄️ A colorfull real time fractal generator and explorer, using GLSL
 - [My NixOS configuration](#--nixos-config-2025) - 🐧My NixOS Configuration with Dofiles, using Hyprland and Fish 🐟
@@ -142,7 +142,7 @@ My collection of **CTF Tools** and **Archives** includes a variety of codes and 
 </p>
 <br>
 
-## 📊 Github Stats
+## 📊 GitHub Stats
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leoraclet&show_icons=true&locale=en&layout=compact&bg_color=00000000&border_color=00000022" alt="
 N£utr0nys stats" /></p>
