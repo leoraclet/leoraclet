@@ -141,11 +141,11 @@ My collection of **CTF Tools** and **Archives** includes a variety of codes and 
  <a href="https://github.com/leoraclet/hacking"><img src="./assets/projects/hacking.png" width="400" alt=""></a>
 </p>
 <br>
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leoraclet&show_icons=true&locale=en&layout=compact&bg_color=00000000&border_color=00000022" alt="
 N£utr0nys stats" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leoraclet&locale=en&show_icons=true&bg_color=00000000&border_color=00000022&rank_icon=github" alt="
-N£utr0nys stats" /></p>
+N£utr0nys stats" /></p> -->
