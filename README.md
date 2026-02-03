@@ -8,7 +8,7 @@ In my free time, I enjoy developing projects, primarily using **C/C++** and **Py
 - 👉 Top **2** MiniCTF (UQAC homemade CTF)
 - 👉 Top **61 & 67** at 404CTF 2024 & 2025
 - 👉 Top **50** HeroCTF v6 & v4
-- 👉 Top **764** on [Root-Me](#-cybersecurity) (Score: 6960 pts)
+- 👉 Top **500** on [Root-Me](#-cybersecurity) (Score: 6960 pts)
 
 Currently, I'm working on :
 
@@ -32,6 +32,13 @@ Feel free to reach out to me via email. You can also connect with me on **Linked
 &nbsp;
 <br>
 
+## 🔒 Cybersecurity
+
+Here are my hacking stats on [**Root-Me**](https://www.root-me.org/?lang=en) ! (The fast, easy, and affordable way to train your hacking skills)
+
+![Root-Me stats](https://root-me-diff.vercel.app/rm-gh?nickname=NLutr0nys&gstats=show&style=light)
+
+
 ## 🛠️ &nbsp; Technologies & Tools
 
 Throughout the development of my projects, I have gained experience with a variety of programming languages, technologies, and tools across different platforms.
@@ -51,12 +58,6 @@ Throughout the development of my projects, I have gained experience with a varie
 ### 💻 Platforms
 
 ![Softwares](https://go-skill-icons.vercel.app/api/icons?i=arch,debian,windows,nixos,arduino,github,gitlab,raspberrypi,kali&perline=10&titles=true)
-
-## 🔒 Cybersecurity
-
-Here are my hacking stats on [**Root-Me**](https://www.root-me.org/?lang=en) ! (The fast, easy, and affordable way to train your hacking skills)
-
-![Root-Me stats](https://root-me-diff.vercel.app/rm-gh?nickname=NLutr0nys&gstats=show&style=light)
 
 ## 📂 &nbsp; Projects
 
@@ -141,11 +142,3 @@ My collection of **CTF Tools** and **Archives** includes a variety of codes and 
  <a href="https://github.com/leoraclet/hacking"><img src="./assets/projects/hacking.png" width="400" alt=""></a>
 </p>
 <br>
-<!--
-## 📊 GitHub Stats
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leoraclet&show_icons=true&locale=en&layout=compact&bg_color=00000000&border_color=00000022" alt="
-N£utr0nys stats" /></p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leoraclet&locale=en&show_icons=true&bg_color=00000000&border_color=00000022&rank_icon=github" alt="
-N£utr0nys stats" /></p> -->
