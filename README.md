@@ -8,7 +8,7 @@ In my free time, I enjoy developing projects, primarily using **C/C++** and **Py
 - 👉 Top **2** MiniCTF (UQAC homemade CTF)
 - 👉 Top **61 & 67** at 404CTF 2024 & 2025
 - 👉 Top **50** HeroCTF v6 & v4
-- 👉 Top **500** on [Root-Me](#-cybersecurity) (Score: 6960 pts)
+- 👉 Top **400** on [Root-Me](#-cybersecurity) (with **9495** pts)
 
 Currently, I'm working on :
 
@@ -45,19 +45,19 @@ Throughout the development of my projects, I have gained experience with a varie
 
 ### 📝 Languages
 
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=matlab,html,css,js,ts,py,bash,c,cpp,cs,nodejs,yaml,markdown,latex&perline=10&titles=true)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=matlab,js,ts,py,bash,c,cpp,cs,nodejs&perline=10&titles=true)
 
 ### 🚀 Technologies
 
-![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=django,astro,svelte,vue,vite,flask,daisyui,tailwind&perline=10&titles=true)
+![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=django,flask,fastapi,astro,vite,tailwind&perline=10&titles=true)
 
 ### 🪛 Tools
 
-![Support tools](https://go-skill-icons.vercel.app/api/icons?i=sentry,docker,bun,cmake,git,mysql,redis,sqlite,celery,postgres,grafana,githubactions,stripe,platformio&perline=10&titles=true)
+![Support tools](https://go-skill-icons.vercel.app/api/icons?i=docker,cmake,git,mysql,redis,sqlite,postgres,grafana,githubactions,platformio&perline=10&titles=true)
 
 ### 💻 Platforms
 
-![Softwares](https://go-skill-icons.vercel.app/api/icons?i=arch,debian,windows,nixos,arduino,github,gitlab,raspberrypi,kali&perline=10&titles=true)
+![Softwares](https://go-skill-icons.vercel.app/api/icons?i=arch,debian,windows,nixos,arduino,raspberrypi&perline=10&titles=true)
 
 ## 📂 &nbsp; Projects
 
