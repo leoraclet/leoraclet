@@ -61,7 +61,7 @@ Throughout the development of my projects, I have gained experience with a varie
 
 ## 📂 &nbsp; Projects
 
-Below you'll find some of my best / finished projects that I've made over the years.
+Below you'll find some of my best, finished or ongoing projects that I've worked on over the years.
 
 ## [🐧 &nbsp; NixOS Config *(2025)*](https://github.com/leoraclet/nixos-config)
 
