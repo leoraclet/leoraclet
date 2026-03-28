@@ -8,7 +8,7 @@ In my free time, I enjoy developing projects, primarily using **C/C++** and **Py
 - 👉 Top **2** MiniCTF (UQAC homemade CTF)
 - 👉 Top **61 & 67** at 404CTF 2024 & 2025
 - 👉 Top **50** HeroCTF v6 & v4
-- 👉 Top **300** on [Root-Me](#-cybersecurity) (with **> 10655** pts)
+- 👉 Top **200** on [Root-Me](#-cybersecurity) (with **> 11905** pts)
 
 Currently, I'm working on :
 
