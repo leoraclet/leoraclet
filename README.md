@@ -32,13 +32,6 @@ Feel free to reach out to me via email. You can also connect with me on **Linked
 &nbsp;
 <br>
 
-## 🔒 Cybersecurity
-
-Here are my hacking stats on [**Root-Me**](https://www.root-me.org/?lang=en) ! (The fast, easy, and affordable way to train your hacking skills)
-
-![Root-Me stats](https://root-me-diff.vercel.app/rm-gh?nickname=NLutr0nys&gstats=show&style=light)
-
-
 ## 🛠️ &nbsp; Technologies & Tools
 
 Throughout the development of my projects, I have gained experience with a variety of programming languages, technologies, and tools across different platforms.
