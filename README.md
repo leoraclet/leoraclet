@@ -16,7 +16,7 @@ Currently, I'm working on :
 - [My NixOS configuration](#--nixos-config-2025) - 🐧My NixOS Configuration with Dofiles, using Hyprland and Fish 🐟
 - [VHDL Designs](https://github.com/leoraclet/vhdl-designs) - 🔌 A collection of simple VHDL designs, modules and circuits
 
-For more information, feel free to visit my [**Portfolio**](https://leoraclet.github.io) or go check out my other [**Projects**](#--projects).
+For more information, feel free to visit my [**Portfolio**](https://leoraclet.github.io) or go check out my other **Projects**.
 
 ## 💬 &nbsp; Contact
 
@@ -30,7 +30,6 @@ Feel free to reach out to me via email. You can also connect with me on **Linked
 &nbsp;
 [![GMAIL](https://img.shields.io/badge/-DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/454950749767200768)
 &nbsp;
-<br>
 
 ## 🛠️ &nbsp; Technologies & Tools
 
@@ -51,87 +50,3 @@ Throughout the development of my projects, I have gained experience with a varie
 ### 💻 Platforms
 
 ![Softwares](https://go-skill-icons.vercel.app/api/icons?i=arch,debian,windows,nixos,arduino,raspberrypi&perline=10&titles=true)
-
-## 📂 &nbsp; Projects
-
-Below you'll find some of my best, finished or ongoing projects that I've worked on over the years.
-
-## [🐧 &nbsp; NixOS Config *(2025)*](https://github.com/leoraclet/nixos-config)
-
-My **NixOS** 🐧 **Linux** ❄️ flake configuration, meticulously set up using **Hyprland** for a seamless and efficient computing experience. This setup reflects my customized environment tailored for both productivity and performance.
-<br>
-<p align="center">
-<a href="https://github.com/leoraclet/nixos-config">
-<img src="./assets/projects/nixos-config.png" width="600" alt="">
-</a>
-</p>
-<br>
-
-## [🌐 &nbsp; Django SaaS Template *(2025)*](https://github.com/leoraclet/django-saas-template)
-
-A comprehensive **template** designed for developing a Software-as-a-Service (SaaS) application using **Django** and **Docker**.
-
-<p align="center">
- <a href="https://github.com/leoraclet/django-saas-template"><img src="./assets/projects/django-saas-template.png" width="600" alt=""></a>
-</p>
-<br>
-
-## [📜   &nbsp; Awesome LaTeX *(2024)*](https://github.com/leoraclet/awesome-latex-template)
-
-**Awesome LaTeX** is a sophisticated LaTeX template designed to help you create exceptional and visually appealing documents.
-
-<a align="center" href="https://github.com/leoraclet/awesome-latex-template">
-
-|                                             |                                             |
-| :-----------------------------------------: | :-----------------------------------------: |
-| ![1](./assets/projects/awesome-latex-1.png) | ![2](./assets/projects/awesome-latex-2.png) |
-
-</a>
-
-<br>
-
-## [🃏 &nbsp; SuperMemo *(2024)*](https://github.com/leoraclet/super-memo)
-
-This project is part of a school assignment where the goal was to develop a basic flashcard application similar to **Anki**. The application features a user interface (**GUI**) designed for easy interaction.
-
-<br>
-<p align="center">
- <a href="https://github.com/leoraclet/super-memo"><img src="./assets/projects/super-memo.png" width="600" alt=""></a>
-</p>
-
-## [❄️ &nbsp; Fractal generator *(2022)*](https://github.com/leoraclet/fractals-generator)
-
-This program is a fractal generator developed in **C/C++** using **SFML**. It allows you to generate and explore colorful fractals, including Mandelbrot and Julia sets. Real-time deep zooms are achievable by emulating double floating precision on the GPU.
- <br>
-<p align="center">
- <a href="https://github.com/leoraclet/fractals-generator"><img src="./assets/projects/mandelbrot_colored.png" width="600" alt=""></a>
-</p>
-<br>
-
-## [🛡️ &nbsp; Game of life *(2021)*](https://github.com/leoraclet/game-of-life)
-
-This program simulates Conway's Game of Life, created by mathematician John Conway in 1970. It is implemented in **C / C++** and uses the **SDL** library for graphics rendering. <br>
-<p align="center">
- <a href="https://github.com/leoraclet/game-of-life"><img src="./assets/projects/stage_gol.png" width="600" alt=""></a>
-</p>
-<br>
-
-## [🪙 &nbsp; Unycoin *(2021)*](https://github.com/leoraclet/unycoin)
-
-This project is a pure **Python** implementation of a cryptocurrency, inspired by the original Bitcoin as introduced in Satoshi Nakamoto's seminal whitepaper: [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf).
-
-<br>
-<p align="center">
- <a href="https://github.com/leoraclet/unycoin"><img src="./assets/projects/bitcoin.png" width="600" alt=""></a>
-</p>
-<br>
-
-## [🔱 &nbsp; Hacking List *(2021)*](https://github.com/leoraclet/hacking)
-
-My collection of **CTF Tools** and **Archives** includes a variety of codes and tools related to Capture The Flag (**CTF**) competitions and **cybersecurity**. These resources have been accumulated and utilized over the past few years to tackle various challenges.
-
-<br>
-<p align="center">
- <a href="https://github.com/leoraclet/hacking"><img src="./assets/projects/hacking.png" width="400" alt=""></a>
-</p>
-<br>
